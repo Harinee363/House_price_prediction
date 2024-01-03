@@ -30,3 +30,5 @@
   git add . adds all the files
   ----
   git commit -m "The message to display on the host(github)"
+  ----
+  
